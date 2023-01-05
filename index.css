@@ -80,6 +80,10 @@ body {
     cursor: pointer;
 }
 
+.header nav ul li:hover {
+    color: hsl(5, 85%, 63%);
+}
+
 .header .menu-button button{
     background: transparent;
     outline: none;
