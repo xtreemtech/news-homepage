@@ -29,6 +29,7 @@ body {
     max-width: 1200px;
     margin: auto;
     padding-bottom: 4rem;
+    background-color: hsl(36, 100%, 99%);
 }
 
 .header {
